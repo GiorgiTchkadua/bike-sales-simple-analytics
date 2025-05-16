@@ -20,6 +20,9 @@ This Bike Sales Dashboard provides visual analytics for understanding customer d
 - Monetary values displayed in USD
 - Clear labeling for all data points
 
+  ![Uploading Screenshot 2025-05-16 at 18.58.18.png…]()
+
+
 ## Data Structure
 The dashboard presents data in a structured format with:
 - Hierarchical organization (main categories → subcategories)
